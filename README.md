@@ -3,6 +3,7 @@
 Scanning tool for BLE and BTHome devices
 
 Privacy Policy
+
 Last updated: October 6, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the application.
